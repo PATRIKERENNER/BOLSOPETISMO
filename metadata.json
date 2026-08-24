@@ -1,0 +1,6 @@
+{
+  "name": "Observatório Político: Bolsonarismo vs Petismo",
+  "description": "Plataforma independente e factual de dados públicos e judiciais sobre escândalos de corrupção, condenações, mandato atual e análise do impacto eleitoral das duas maiores correntes políticas brasileiras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
